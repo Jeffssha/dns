@@ -172,13 +172,13 @@
     }, 
     {
       "user_id": 27, 
-      "value": "27_app_dialog_image_message_18B74AC4C05657CA3735.png", 
+      "value": "https://i.ibb.co/k22vmrQ/ic-success.png", 
       "id": 5146, 
       "name": "app_dialog_image_message"
     }, 
     {
       "user_id": 27, 
-      "value": "27_app_dialog_image_limit_exceeded_7C3A884BF2A948617329.png", 
+      "value": "https://i.ibb.co/fF2DQgS/limiter.png", 
       "id": 5147, 
       "name": "app_dialog_image_limit_exceeded"
     }, 
@@ -190,7 +190,7 @@
     }, 
     {
       "user_id": 27, 
-      "value": "https://i.ibb.co/Lg73dz9/whatsapp-logo-icone.png", 
+      "value": "https://i.ibb.co/k22vmrQ/ic-success.png", 
       "id": 7732, 
       "name": "app_contct_icon"
     }
