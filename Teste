@@ -3,14 +3,14 @@
   "data": [
     {
       "user_id": 27, 
-      "value": "<font color=\"#ffffff\">GL TUNNEL MOD</font>", 
+      "value": "<font color=\"#007eff\">NET WORLD SSH</font>", 
       "id": 37, 
       "name": "app_name"
     }, 
     {
       "id": 2163, 
       "user_id": 27, 
-      "value": "https://i.imgur.com/WrxnF1c.jpeg", 
+      "value": "https://i.ibb.co/fqjwjVb/15bce915-26b6-4d70-9ad4-f979185cc193.png", 
       "name": "app_background_image"
     },
     {
@@ -33,19 +33,19 @@
     }, 
     {
       "user_id": 27, 
-      "value": "#3355D1", 
+      "value": "#007eff", 
       "id": 41, 
       "name": "button_color"
     }, 
     {
       "user_id": 27, 
-      "value": "#ffffff", 
+      "value": "#007eff", 
       "id": 42, 
       "name": "icon_color"
     }, 
     {
       "user_id": 27, 
-      "value": "#ffffff", 
+      "value": "#333333", 
       "id": 556, 
       "name": "border_color"
     }, 
@@ -63,7 +63,7 @@
     }, 
     {
       "user_id": 27, 
-      "value": "", 
+      "value": "https://wa.me/+5592991115720", 
       "id": 2224, 
       "name": "app_contact_link"
     },
@@ -88,13 +88,13 @@
     }, 
     {
       "user_id": 27, 
-      "value": "", 
+      "value": "https://wa.me/+5592991115720", 
       "id": 2385, 
       "name": "app_conta_link"
     }, 
     {
       "user_id": 27, 
-      "value": "https://i.imgur.com/h3UjRjh.png", 
+      "value": "https://i.ibb.co/9VQqx2Q/Add-Text-11-09-12-24-17.png", 
       "id": 2386, 
       "name": "app_logo"
     },
@@ -124,7 +124,7 @@
     }, 
     {
       "user_id": 27, 
-      "value": "https://i.ibb.co/R9ycgpR/icon-6-launcher-round.png", 
+      "value": "https://i.ibb.co/Lg73dz9/whatsapp-logo-icone.png", 
       "id": 5130, 
       "name": "app_qsTileIcon"
     }, 
@@ -142,7 +142,7 @@
     }, 
     {
       "user_id": 27, 
-      "value": "SEJAM BEM VINDO(A)S AO GL TUNNEL MOD!!", 
+      "value": "SEJA BEM VINDO(A) AO GBNET!", 
       "id": 5141, 
       "name": "app_message_text"
     }, 
@@ -154,7 +154,7 @@
     }, 
     {
       "user_id": 27, 
-      "value": "https://i.ibb.co/FsJD5bz/20220628-194452.png", 
+      "value": "27_app_dialog_image_success_BF629882C4376A8477E9.png", 
       "id": 5143, 
       "name": "app_dialog_image_success"
     }, 
@@ -166,7 +166,7 @@
     }, 
     {
       "user_id": 27, 
-      "value": "https://i.ibb.co/FsJD5bz/20220628-194452.png", 
+      "value": "27_app_dialog_image_validate_AE1AA0FA0F34767B4CD5.png", 
       "id": 5145, 
       "name": "app_dialog_image_validate"
     }, 
@@ -190,7 +190,7 @@
     }, 
     {
       "user_id": 27, 
-      "value": "https://i.ibb.co/R9ycgpR/icon-6-launcher-round.png", 
+      "value": "https://i.ibb.co/Lg73dz9/whatsapp-logo-icone.png", 
       "id": 7732, 
       "name": "app_contct_icon"
     }
